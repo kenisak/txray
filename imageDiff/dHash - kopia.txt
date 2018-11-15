@@ -1,0 +1,7 @@
+.\bilder\sdltbc27f9b.jpg;f0b42acca4adada5
+.\bilder\sdltbc27f9b_kopia.jpg;f0b42acca4adada5
+.\bilder\Xray_Dental_6.jpg;331b4d8c8e8c9632
+.\bilder\Xray_Dental_Panoramic_4.jpg;c894eceab6f0f232
+.\images\sdltbc27f9b.jpg;f0b42acca4adada5
+.\images\Xray_Dental_6.jpg;331b4d8c8e8c9632
+.\images\Xray_Dental_Panoramic_4.jpg;c894eceab6f0f232
